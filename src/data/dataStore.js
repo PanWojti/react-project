@@ -8,6 +8,7 @@ export const settings = {
   },
   defaultListDescription: '<p>I can do all the things!!!</p>',
   defaultColumnIcon: 'list-alt',
+  defaultCardIcon: 'column-alt',
 };
 
 export const pageContents = {
